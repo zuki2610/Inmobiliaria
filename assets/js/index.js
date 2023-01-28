@@ -37,7 +37,7 @@ const propiedadesJSON = [
   {
     name: "Mansión",
     description: "Vive una vida lujosa en la mansión de tus sueños ",
-    src: "https://resizer.glanacion.com/resizer/fhK-tSVag_8UGJjPMgWrspslPoU=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/CUXVMXQE4JD5XIXX4X3PDZAVMY.jpg",
+    src: "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2021/04/16/16185679347539.jpg",
     rooms: 5,
     m: 500,
   },
