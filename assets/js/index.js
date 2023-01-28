@@ -37,7 +37,7 @@ const propiedadesJSON = [
   {
     name: "Mansión",
     description: "Vive una vida lujosa en la mansión de tus sueños ",
-    src: "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2021/04/16/16185679347539.jpg",
+    src: "https://mansionesmiami.com/wp-content/uploads/2020/05/620-Arvida-Pkwy-Coral-Gables-FL-33156-1.jpg",
     rooms: 5,
     m: 500,
   },
